@@ -43,6 +43,7 @@ COUNT
 AVERAGE
 
 📂 Project Workflow
+
 1⃣ Data Cleaning(Cleaned Sheet)
 
 Removed duplicates
